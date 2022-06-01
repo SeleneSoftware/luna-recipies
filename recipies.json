@@ -1,0 +1,27 @@
+{
+    "recipies": [
+        {
+            "name": "Luna Package Management System",
+            "description": "Package Manager for Selene Linux",
+            "alias": "luna",
+            "file": "luna.lua"
+        },
+        {
+            "name": "Apollo Installer Thingy",
+            "description": "Just trying to make additional packages",
+            "alias": "apollo",
+            "file": "apollo.lua"
+        }
+    ],
+    "cookbooks": [
+        {
+            "name": "base",
+            "package": ["luna","apollo"]
+        },
+        {
+            "name": "server",
+            "package":[]
+        }
+    ]
+}
+
