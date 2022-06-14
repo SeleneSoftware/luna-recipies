@@ -11,7 +11,73 @@
             "description": "Just trying to make additional packages",
             "alias": "apollo",
             "file": "apollo.lua"
-        }
+        },{
+            "name": "Luna Package Management System1",
+            "description": "Package Manager for Selene Linux",
+            "alias": "luna",
+            "file": "luna.lua"
+        },
+        {
+            "name": "Apollo Installer Thingy1",
+            "description": "Just trying to make additional packages",
+            "alias": "apollo",
+            "file": "apollo.lua"
+        },{
+            "name": "Luna Package Management System2",
+            "description": "Package Manager for Selene Linux",
+            "alias": "luna",
+            "file": "luna.lua"
+        },
+        {
+            "name": "Apollo Installer Thingy2",
+            "description": "Just trying to make additional packages",
+            "alias": "apollo",
+            "file": "apollo.lua"
+        },{
+            "name": "Luna Package Management System3",
+            "description": "Package Manager for Selene Linux",
+            "alias": "luna",
+            "file": "luna.lua"
+        },
+        {
+            "name": "Apollo Installer Thingy3",
+            "description": "Just trying to make additional packages",
+            "alias": "apollo",
+            "file": "apollo.lua"
+        },{
+            "name": "Luna Package Management System4",
+            "description": "Package Manager for Selene Linux",
+            "alias": "luna",
+            "file": "luna.lua"
+        },
+        {
+            "name": "Apollo Installer Thingy4",
+            "description": "Just trying to make additional packages",
+            "alias": "apollo",
+            "file": "apollo.lua"
+        },{
+            "name": "Luna Package Management System5",
+            "description": "Package Manager for Selene Linux",
+            "alias": "luna",
+            "file": "luna.lua"
+        },
+        {
+            "name": "Apollo Installer Thingy5",
+            "description": "Just trying to make additional packages",
+            "alias": "apollo",
+            "file": "apollo.lua"
+        },{
+            "name": "Luna Package Management System5",
+            "description": "Package Manager for Selene Linux",
+            "alias": "luna",
+            "file": "luna.lua"
+        },
+        {
+            "name": "Apollo Installer Thingy5",
+            "description": "Just trying to make additional packages",
+            "alias": "apollo",
+            "file": "apollo.lua"
+        },
     ],
     "cookbooks": [
         {
