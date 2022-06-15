@@ -83,7 +83,7 @@
             "description": "Just trying to make additional packages",
             "alias": "apollo",
             "file": "apollo.lua"
-        },
+        }
     ],
     "cookbooks": [
         {
